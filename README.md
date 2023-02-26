@@ -5,4 +5,3 @@ Since I enjoy problem solving, I also find programming to be a fun and rewarding
 
 I am currently most familiar with Python but am always looking to expand my knowledge.
 
-Please feel free to contact me at rgmeves@gmail.com
